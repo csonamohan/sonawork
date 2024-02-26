@@ -21,11 +21,11 @@ A detailed look at the user attributes of the coupon takers some interesting fac
 * They can be of either sex
 * Users typically take coupons in sunny weather - during the second half of the day when they either going home or no place urgent.
 
-![Alt text](images\image-1.png)
+![Alt text](images/image-1.png)
 
 I took a deeper into the coupon usage / acceptance data to narrow my study. 
 
-![Alt text](images\image.png)
+![Alt text](images/image.png)
 
 Most popular coupons by Age Group along with their Acceptance Rate
 
@@ -43,7 +43,7 @@ Most popular coupons by Age Group along with their Acceptance Rate
 
 From what is seen here, it is clear that coupons most utilized for Carry out & Takeaway and cheaper restaurants. We can investigate the coupon acceptance rate of Carry out & Takeaway group further. We will look at income of people who utilize this category of coupons, their marital status and when do they most often use this coupon. We will also explore the effect of children on this decision.
 
-![Alt text](images\image-2.png)
+![Alt text](images/image-2.png)
 
 ### Coupons most utilized for Carry out & Takeaway -
 - Overall Acceptance Rate: 0.74
@@ -51,4 +51,4 @@ From what is seen here, it is clear that coupons most utilized for Carry out & T
 - Widowed, 50+ year olds 
 - Chances of takeouts are higher when they have children 
 - They are from the lower income group 
-- They use mostly these coupons when their destination is home
+- They use mostly these coupons when their destination is home..
